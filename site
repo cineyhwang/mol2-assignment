@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Mol2 Assignment</title>
+<link rel='stylesheet' href='style.css'>
+
+</head>
+
+
+<body>
+<h1> Our Menu </h1>
+<div class ='row'>
+<div class='col-lg-4 col-md-6 col-sm-12'><P><strong class='chicken'>chicken</strong> <br><br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim tortor at urna fringilla vehicula. In hac habitasse platea dictumst. Sed dictum auctor tempor. Donec tempor dignissim augue at mattis. Phasellus bibendum malesuada urna, a pellentesque nunc tincidunt nec. </P></div>
+
+<div class='col-lg-4 col-md-6 col-sm-12'><P><strong class='beef'>beef</strong> <br><br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim tortor at urna fringilla vehicula. In hac habitasse platea dictumst. Sed dictum auctor tempor. Donec tempor dignissim augue at mattis. Phasellus bibendum malesuada urna, a pellentesque nunc tincidunt nec. </P></div>
+
+<div class='col-lg-4 col-md-12 col-sm-12'><P><strong class='sushi'>sushi</strong> <br><br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus dignissim tortor at urna fringilla vehicula. In hac habitasse platea dictumst. Sed dictum auctor tempor. Donec tempor dignissim augue at mattis. Phasellus bibendum malesuada urna, a pellentesque nunc tincidunt nec. </P></div>
+
+
+</div>
+
+</body>
+</html>
